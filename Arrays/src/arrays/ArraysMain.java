@@ -8,6 +8,7 @@ public class ArraysMain {
 		
 		String phrase = "Thanksgiving";
 		phrase = "Christmas";
+		phrase = "Easter";
 		System.out.print("The ASCII value is: ");
 		printArrayInt(findAsciiValue(phrase));
 
